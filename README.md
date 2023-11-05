@@ -1,1 +1,1 @@
-# PennyLaneChallenges
+# PennyLane Challenges
